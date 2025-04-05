@@ -130,9 +130,6 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/pulktrai'
         styles:
           self:
             textAlign: left
