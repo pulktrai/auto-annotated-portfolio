@@ -125,6 +125,14 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/pulktrai'
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://www.reddit.com/user/pulkit-rai/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
