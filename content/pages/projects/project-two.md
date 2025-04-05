@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: WearTheBeer (scrap idea)
+title: WearTheBeer
 colors: colors-a
 date: '2021-12-20'
 client: scrap idea
