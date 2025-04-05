@@ -123,7 +123,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: Reddit
             altText: ''
             url: '/https://www.reddit.com/user/pulkit-rai/'
             showIcon: false
