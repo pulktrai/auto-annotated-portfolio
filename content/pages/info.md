@@ -217,18 +217,19 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2026**
 
-          * ba computer sciense at a semi fancy school
+          *   Btech CSE (CyberSecurity & Digital Forensics)
 
-          **2014**
+          **2022**
 
-          * react certificate somewhere
+          *
 
-          **2011**
+          **2021**
 
-          * my highschool
+          *   12th - 71%
+
         styles:
           self:
             textAlign: left
