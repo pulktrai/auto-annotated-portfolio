@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Password Strength Checker & Generator
 colors: colors-a
 date: '2021-10-15'
 client: 1st scrap project
