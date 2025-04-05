@@ -151,5 +151,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-addTitleSuffix: true
+addTitleSuffix: false
 ---
