@@ -203,26 +203,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   learning AI$ML
 
-          **2018-2021**
+          **2024 (july-sep)**
 
-          * fullstack at this startup
+          *   Summer Internship at Zscaler
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
