@@ -5,8 +5,8 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
+        "title": "HOME",
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -44,6 +44,13 @@
             "self": {
                 "width": "wide"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/scarpfp.jpeg",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
