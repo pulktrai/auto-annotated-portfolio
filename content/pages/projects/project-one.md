@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: 1st scrap project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  My first project (built at the end of my first year) is a simple tool that
+  helps people create smarter passwords—especially for those who still use their
+  name and '123'. It's basic, but it solves a real problem for folks who need a
+  little push toward better security.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot from 2025-04-05 23-06-41.png
