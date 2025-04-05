@@ -44,13 +44,6 @@
             "self": {
                 "width": "wide"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/Dddd.jpeg",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "footer": {
