@@ -123,9 +123,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/pulktrai'
-          - type: Link
             label: Learn more
             altText: ''
             url: '/https://www.reddit.com/user/pulkit-rai/'
@@ -133,6 +130,9 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+          - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/pulktrai'
         styles:
           self:
             textAlign: left
