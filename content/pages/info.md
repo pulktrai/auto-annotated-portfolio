@@ -125,15 +125,6 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/pulktrai'
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /ok
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left
