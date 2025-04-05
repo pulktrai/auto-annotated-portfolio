@@ -10,7 +10,7 @@ description: >-
   late-night thoughts.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot from 2025-04-05 22-52-01.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
