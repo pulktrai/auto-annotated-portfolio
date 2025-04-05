@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot from 2025-04-05 22-52-01.png
   altText: Project thumbnail image
+  elementId: jgchc
 media:
   type: ImageBlock
   url: /images/bg2.jpg
