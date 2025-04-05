@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/pulktrai'
         styles:
           self:
             textAlign: left
