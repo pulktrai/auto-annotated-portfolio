@@ -3,7 +3,7 @@ type: ProjectLayout
 title: WearTheBeer (scrap idea)
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   A summer boredom spark turned into a style idea — just vibes and sketches for
   now.  Maybe one day it’s a brand, but for now, it lives in my notes and
