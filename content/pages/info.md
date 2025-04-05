@@ -206,7 +206,7 @@ sections:
         text: |+
           **Current**
 
-          *   learning AI$ML
+          *   learning Digital Forensics and AI\&ML too.
 
           **2024 (july-sep)**
 
