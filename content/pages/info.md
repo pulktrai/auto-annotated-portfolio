@@ -108,7 +108,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/pulktrai'
         styles:
           self:
             textAlign: left
