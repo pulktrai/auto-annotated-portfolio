@@ -91,13 +91,9 @@ Learning cybersecurity without a plan is like building a house without a bluepri
 
 It shows you what to learn **first**, what’s **essential**, and what can wait. It helps you move from “just learning” to actually **building your skillset.**
 
-
-
 ## The Cybersecurity Learning Roadmap
 
 Let’s break it down into stages — so you can learn **step by step** and track your progress with clarity.
-
-
 
 ### 🧱 **1. Understand the Basics of Computers and Networks**
 
@@ -117,8 +113,6 @@ Before you even touch cybersecurity tools, understand the foundation:
 
 *   Practice Linux with a virtual machine (Kali or Ubuntu)
 
-
-
 ### 🔐 **2. Learn About Cybersecurity Fundamentals**
 
 Now that you know how things work, it’s time to learn **how they break**:
@@ -134,8 +128,6 @@ Now that you know how things work, it’s time to learn **how they break**:
 *   Cybrary’s free beginner courses
 
 *   “The Basics of Hacking and Penetration Testing” by Patrick Engebretson
-
-
 
 ### ⚔️ **3. Dive Into Ethical Hacking and Tools**
 
@@ -157,8 +149,6 @@ This is where things get exciting. Start learning to **attack ethically** to und
 
 *   TryHackMe’s *Complete Beginner to Offensive Security* path
 
-
-
 ### 🔎 **4. Web Application Security**
 
 Web apps are the most common attack targets. Learn:
@@ -174,8 +164,6 @@ Web apps are the most common attack targets. Learn:
 *   PortSwigger’s Web Security Academy
 
 *   Bug Bounty courses (Intro to Bug Bounty Hunting on HackerOne)
-
-
 
 ### 🛡️ **5. Defensive Side (Blue Team)**
 
@@ -195,8 +183,6 @@ Cybersecurity isn’t just about hacking — it’s also about **defending**:
 
 *   TryHackMe’s *SOC Level 1 Analyst* path
 
-
-
 ### 🎓 **6. Certifications (Optional but Valuable)**
 
 Certifications validate your knowledge and boost your resume.
@@ -209,8 +195,6 @@ Certifications validate your knowledge and boost your resume.
 
 *   **CySA+, GSEC, etc.** depending on your goal (Red Team / Blue Team)
 
-
-
 ### 🧠 **7. Keep Practicing & Stay Updated**
 
 Cybersecurity changes daily. Stay sharp by:
@@ -222,8 +206,6 @@ Cybersecurity changes daily. Stay sharp by:
 *   Joining communities (Reddit, Discord, LinkedIn groups)
 
 *   Building your own labs for experiments
-
-
 
 ## Final Thoughts: Walk the Roadmap, One Step at a Time
 
@@ -238,3 +220,5 @@ Cybersecurity is deep, wide, and constantly evolving. Without a roadmap, it’s 
 So stop jumping from tutorial to tutorial. Follow a roadmap. Take it slow. Build one block at a time.
 
 **Because in cybersecurity, direction matters more than speed.**
+
+**-**<https://roadmap.sh/cyber-security>
