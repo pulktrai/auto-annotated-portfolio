@@ -88,17 +88,42 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
+In the ever-evolving digital world, two fields dominate the tech space: **Web Development** and **Cybersecurity**. While both are critical pillars of technology, cybersecurity holds a unique charm that goes beyond just building websites. It’s like comparing being an architect to being a detective — and let's be real, who doesn't love a good mystery?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## 1. **Every Day is a New Puzzle**
 
-## Good habits
+Web development is creative and structured — you write code, build UIs, deploy sites. But once the site is live, a lot of the job becomes maintenance. Cybersecurity, on the other hand, is **unpredictable**. You're constantly solving new problems: from analyzing malware to investigating breaches. One day you're tracing a phishing campaign, the next you're reverse-engineering a suspicious payload. It’s never boring.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## 2. **You Think Like a Hacker**
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+In cybersecurity, you're trained to think like the bad guy — and then outsmart them. That’s not just technical skill, that’s **psychological warfare**. You analyze behaviors, break patterns, and anticipate attacks. It's not just about using tools, it's about becoming **smarter than someone trying to beat the system**.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Web dev has its problem-solving moments, but it rarely pushes you to think this deep. You're more focused on user experience than user **exploitation** prevention.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## 3. **It’s a Game of High Stakes**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+In web development, if a button doesn’t work, you fix it and move on. In cybersecurity, if **you mess up — data leaks, systems crash, money is lost, reputations destroyed**. The stakes are much higher. And with that comes a level of thrill and responsibility that web development just can’t match.
+
+## 4. **You Get to Break Things (Legally)**
+
+Let’s face it: the idea of **breaking into systems — legally** — is cool. Ethical hacking (a.k.a. penetration testing) lets you simulate attacks and test vulnerabilities before real hackers exploit them. It's adrenaline + intellect combined. What’s more interesting: designing a login form, or bypassing one?
+
+## 5. **Cybersecurity Is Everywhere**
+
+Web development is mostly focused on… well, the web. But cybersecurity stretches across **every field** — finance, healthcare, defense, aerospace, IoT, even government surveillance. Whether it's securing a satellite or a smartwatch, cybersecurity specialists are the silent guardians of modern infrastructure.
+
+## 6. **It’s an Ongoing War**
+
+Cybersecurity is not a one-time job — it's an **ongoing battle**. The threat landscape changes daily. New vulnerabilities, attack vectors, tools, and countermeasures emerge every week. It's a field that **demands you to stay sharp, stay curious, and never stop learning**.
+
+Web development evolves too — but not at this pace, not with this pressure, and certainly not with this level of intensity.
+
+
+
+## Final Thoughts
+
+Web development is essential and can be fun. But **if you're someone who loves mystery, thrives under pressure, enjoys critical thinking, and finds joy in outsmarting others — cybersecurity is your playground**. It's not just a career, it's a mission.
+
+**Be the hunter, not the builder.** 
+
+**-pulkitrai/**
