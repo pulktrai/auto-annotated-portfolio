@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: WearTheBeer (scrap idea)
+title: WearTheBeer
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: scrap idea
 description: >-
   A summer boredom spark turned into a style idea — just vibes and sketches for
   now.  Maybe one day it’s a brand, but for now, it lives in my notes and
@@ -25,6 +25,10 @@ Our name? Catchy enough to stick in your head. The kind you hear once and think,
 Right now, we’re just an idea — the kind that lives in sketchbooks, Notes apps, and daydreams. But one day? We might just be your favorite fit.
 
 We don’t just make clothes.
+**We make vibes.**
 
+Got an idea, a vision, or just good taste?
 
-[We make vibes. https://wearthebeer.my.canva.site/](https://wearthebeer.my.canva.site/) (demo site)
+Let’s build this together — hit me up and let’s make it real.
+
+<https://wearthebeer.my.canva.site/> (demo site) / wearthebeer\@gmail.com
