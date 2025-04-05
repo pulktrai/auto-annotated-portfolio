@@ -25,6 +25,10 @@ Our name? Catchy enough to stick in your head. The kind you hear once and think,
 Right now, we’re just an idea — the kind that lives in sketchbooks, Notes apps, and daydreams. But one day? We might just be your favorite fit.
 
 We don’t just make clothes.
+**We make vibes.**
 
+Got an idea, a vision, or just good taste?
 
-[We make vibes. https://wearthebeer.my.canva.site/](https://wearthebeer.my.canva.site/) (demo site)
+Let’s build this together — hit me up and let’s make it real.
+
+<https://wearthebeer.my.canva.site/> (demo site) / wearthebeer\@gmail.com
