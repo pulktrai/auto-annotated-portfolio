@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A summer boredom spark turned into a style idea — just vibes and sketches for
+  now.  Maybe one day it’s a brand, but for now, it lives in my notes and
+  late-night thoughts.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
